@@ -24,7 +24,7 @@ Before running the project, make sure to install the required packages listed in
 
 ## Code Activity
 
-Check out my code activity on WakaTime: [![wakatime](https://wakatime.com/badge/github/SamanElmi/CLT-Project---Saman-Elmi.svg)](https://wakatime.com/badge/github/SamanElmi/CLT-Project---Saman-Elmi)
+Check out my code activity on WakaTime: [![wakatime](https://wakatime.com/badge/github/SamanElmi/CLT-Project.svg)](https://wakatime.com/badge/github/SamanElmi/CLT-Project)
 
 ## License
 
