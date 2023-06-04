@@ -1,6 +1,6 @@
 # Classical Laminate Theory (CLT) Project
 
-![GitHub](https://img.shields.io/github/license/SamanElmi/CLT-Project---Saman-Elmi)
+![SamanElmi](https://img.shields.io/github/license/SamanElmi/CLT-Project---Saman-Elmi)
 
 Welcome to my Classical Laminate Theory (CLT) project for the course "Application of Fiber Composites in Structural Engineering" taught by Prof. Masoud Motavalli at the University of Tehran. This project focuses on exploring the principles and applications of CLT in analyzing the mechanical behavior of fiber composite laminates.
 
